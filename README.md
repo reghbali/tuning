@@ -1,3 +1,3 @@
 # tuning
 
-compute linear and nonlinear tuning curves
+compute linear and nonlinear tuning curves.
